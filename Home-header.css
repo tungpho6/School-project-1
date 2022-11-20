@@ -1,0 +1,70 @@
+.header-container{
+display: flex;
+flex-direction: row;
+align-items: center;
+border-width: 1px;
+border-style: solid;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+background-color: rgb(122, 122, 244);
+height: 86px;
+}
+.contact-language{
+font-size: 12px;
+margin-left: 10px;
+}
+.search-bar{
+margin-left: 10px;  
+margin-top: 10px;
+}
+.Languages{
+width: 20px;
+height: 10px;  
+}
+.Search-button{
+width: 45px;
+height: 40px;  
+margin-top: 10px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+border-radius: 8px ;  
+cursor: pointer;
+}
+.Search-button:hover{
+background-color: rgb(255, 255, 163);  
+}
+.Search-button:active{
+  background-color: rgb(122, 122, 244);
+}
+.seacrh-bar-container{
+display: flex;
+flex-direction: row;  
+height: 50px ;
+}
+.Search-icon{
+  width: 20px;
+  height: 20px;
+}
+.middle-section{
+margin-left: 20px;  
+width: 500px;
+}
+.final-section{
+width: 400px;  
+}
+.Login,.Sign-in{
+width: 100px;
+height: 40px;
+border: none;
+border-radius: 30px;
+cursor: pointer;
+}
+.Login:hover,.Sign-in:hover{
+  background-color: rgb(255, 255, 163);   
+  color: rgb(122, 122, 244);
+}
+.search-bar::placeholder{
+padding-left: 20px;
+}
+.search-bar{
+border-radius: 8px ;  
+}
+

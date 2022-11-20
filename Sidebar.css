@@ -1,0 +1,26 @@
+.Side-bar-container{
+display: flex;
+flex-direction: row;
+background-color: rgb(255, 255, 163);   
+justify-content: center;
+height:50px;
+}
+div.Side-bar-container > button > a{
+  color:rgb(255, 246, 114) ;text-decoration: none;
+}
+.Task-button{
+width: 120px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+cursor: pointer;
+background-color: rgb(91, 91, 91);
+color: white;
+border: none;
+}
+.Task-button:hover{
+  color: rgb(255, 255, 163);   
+  background-color: rgb(122, 122, 244);
+}
+.Task-button:active{
+  background-color: rgb(255, 255, 163);   
+  color: rgb(122, 122, 244);
+}

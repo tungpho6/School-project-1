@@ -1,0 +1,197 @@
+.background-img{
+width: 1200px;
+height: 350px;  
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.18);
+}
+.img-container{
+position: relative;
+left: 0px;
+right: 0px;
+background-color: rgb(255, 255, 163);  
+padding-left: 40px;
+padding-right: 40px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.18);
+}
+.background-container{
+position: relative;
+left: 0;
+right: 0;
+top: 20px;
+height: 150px;
+}
+.image2{
+width: 1266px;  
+height: 150px;
+}
+.Recruit{
+position: absolute;
+top: 10px;  
+left: 500px;
+color: rgb(52, 52, 254);
+font-style: italic;
+}
+.information{
+  position: absolute;
+  left: 660px;
+  bottom: 60px;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.information:hover{
+background-color: rgb(153, 153, 252);
+}
+.box-container{
+display: flex;
+position: relative;
+height: 50px;
+top: 50px;
+left: 30px;
+right: 40px;
+margin-right: 60px;
+border-style: solid;
+border-width: 1px;
+padding-top: 100px;
+background-color: rgb(188, 186, 186);
+display: flex;
+flex-direction: row;
+}
+.Khoahoc-img{
+width: 50px;
+height: 40px; 
+flex: 1; 
+}
+.an-img{
+position: absolute;
+top: 15px;
+left: 100px ;  
+}
+.content{
+position: absolute;
+top: 65px;
+left: 80px;
+}
+.an-img2{
+  position: absolute;
+  top: 15px;
+  left: 400px ;  
+}
+.content2{
+  position: absolute;
+  top: 65px;
+  left: 390px;
+}
+.an-img3{
+  position: absolute;
+  top: 15px;
+  left: 800px ;   
+}
+.content3{
+  position: absolute;
+  top: 65px;
+  left: 780px ;
+}
+.an-img4{
+  position: absolute;
+  top: 15px;
+  left: 1100px ;
+
+}
+.content4{
+  position: absolute;
+  top: 65px;
+  left: 1080px ;
+}
+.the-img{
+width: 250px;
+}
+.container-forthe-news{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.the-news-container{
+display: flex;
+flex-direction: row;  
+margin-left: 50px;
+margin-top: 70px;
+margin-right: 40px;
+border-style: solid;
+border-style: 1px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.18);
+border-color: yellow;
+}
+.the-news-content{
+margin-left: 20px; 
+width: 200px; 
+font-family: sans-serif;
+}
+.div-container{
+display: flex;
+flex-direction: row;
+margin-top: 20px;
+margin-left: 50px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.18);
+border-radius: 10px;
+}
+.description-container{
+width: 500px;  
+background-color: orange;
+font-family: sans-serif;
+font-size: 21px;
+padding-top: 100px;
+padding-right: 50px;
+padding-left:50px ;
+padding-bottom: 50px;
+color: white;
+}
+.Giangduong{
+width: 600px;
+height: 600px;  
+}
+.sector-number-1{
+display: flex;
+flex-direction: row;  
+margin-left: 50px;
+margin-top: 100px;
+justify-content: space-between;
+}
+.container-number-one{
+background-color: orange;  
+}
+.Xem-chi-tiet-button{
+width: 100px ;
+height: 40px;
+margin-top: 20px;
+background-color: rgb(141, 141, 252);
+color: rgb(252, 252, 129);
+cursor: pointer;  
+}
+.Xem-chi-tiet-button:hover{
+background-color: rgb(252, 252, 129) ;  
+color:  rgb(141, 141, 252);
+}
+.Xem-chi-tiet-button:active{
+  color: rgb(252, 252, 129);
+  background-color: rgb(141, 141, 252);
+
+}
+.div-container-number3{
+display: flex;
+flex-direction: row;
+margin-top: 50px;
+}
+.content-holders-num3{
+display: flex;
+flex-direction: column;
+margin-left: 50px;
+border-width: 1px;
+border-style: solid;
+border-color: gray;
+width: 350px;
+}
+.event-img{
+width: 350px;
+height: 200px;
+}
